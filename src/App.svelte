@@ -5,13 +5,13 @@
   const BIRDS = {
     roller: {
       name: "Lilac-breasted Roller",
-      img: BASE + "/birds/roller.jpg",
+      img: BASE + "birds/roller.jpg",
       blurb:
         "Showy, joyful, and allergic to beige. You bring color and courage wherever you land."
     },
     fishEagle: {
       name: "Martial Eagle",
-      img: BASE + "/birds/eagle.jpg",
+      img: BASE + "birds/eagle.jpg",
       blurb:
         "Icon energy. When you speak, people look up. Big voice, bigger heart."
     },
@@ -23,43 +23,43 @@
     },
     shoebill: {
       name: "Shoebill",
-      img: BASE + "/birds/shoebill.jpg",
+      img: BASE + "birds/shoebill.jpg",
       blurb:
         "Mysterious on the outside, marshmallow center. You move slowly and mean it."
     },
     secretarybird: {
       name: "Secretarybird",
-      img: BASE +  "/birds/secretary.jpg",
+      img: BASE +  "birds/secretary.jpg",
       blurb:
         "Long legs, longer stride. Fierce with a flair for drama and perfect eyeliner."
     },
     guineafowl: {
       name: "Helmeted Guineafowl",
-      img: BASE + "/birds/guinea.jpg",
+      img: BASE + "birds/guinea.jpg",
       blurb:
         "Goofy, social, unstoppable in a squad. Chaos is your love language."
     },
     kingfisher: {
       name: "Malachite Kingfisher",
-      img: BASE + "/birds/kingfisher.jpg",
+      img: BASE + "birds/kingfisher.jpg",
       blurb:
         "Tiny jewel of calm. Observant, kind, and quietly dazzling."
     },
     beeEater: {
       name: "Little Bee-eater",
-      img: BASE + "/birds/bee.jpg",
+      img: BASE + "birds/bee.jpg",
       blurb:
         "Pocket-sized sunshine. Playful, curious, and always chasing sparkles."
     },
     violetStarling: {
       name: "Violet-backed Starling",
-      img: BASE + "/birds/violet.jpg",
+      img: BASE + "birds/violet.jpg",
       blurb:
         "Soft-spoken brilliance. You surprise people with sudden, glorious shimmer."
     },
     superbStarling: {
       name: "Superb Starling",
-      img: BASE + "/birds/starling.jpg",
+      img: BASE + "birds/starling.jpg",
       blurb:
         "Sparkly extrovert and community builder. Every gathering is brighter with you."
     }
